@@ -3,11 +3,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,figma,docker,c,bash" />
-    <img src="https://skillicons.dev/icons?i=" /><br>
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,docker,kubernetes,gitlab,githubactions,github,jenkins" />
+    <img src="https://skillicons.dev/icons?i=git,py,mysql,c,react,powershell,nodejs,nginx" /><br>
 </div>
 
 
-
-
-<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<br/>
+<hr/>
